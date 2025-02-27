@@ -1,0 +1,26 @@
+WHO:
+The who command is used to display information about currently logged-in users,
+including their usernames and the terminals they are using. This command provides details such as username, terminal device name (e.g., tty2), login time, and remote host (if applicable). 
+It is commonly used to check user activity and monitor active sessions on a Linux system. 
+
+Bash: 
+The bash shell is a command line shell that enables users to interact with the operating system by entering commands. 
+Operating within a text-based interface, users can execute various commands, run scripts, manage files, and perform various tasks. 
+While graphical shells like GNOME may offer additional user-friendly features, the bash shell remains the primary environment for command-line interactions in Linux systems.
+
+The bash shell provides many features to make working with the shell easier, including command-line completion.
+This feature helps users by automatically completing commands, file names, and paths as they type, thereby reducing the amount of typing effort required and minimizing errors during command entry.
+
+Within the GNOME graphical environment, you can customize terminal settings by accessing them from the menu bar. Double-clicking on the errors bar and using Ctrl + Shift + allows you to increase the font size for better readability.
+After adjusting the font size, you can access terminal settings from the menu bar, typically located under "Preferences" or "Settings."
+From there, you can modify various settings including profile preferences, colors, and bell notifications.
+
+MAN: 
+
+For system admin there are three pages that are essential
+
+section 1:  Executable programs or shell  commands
+  "     5: File formats and conventions
+  "     8: system admin commands -> Thats indicating that you need super powers to use the commands completely. 
+
+All sections are described in man man . 
